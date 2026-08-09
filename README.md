@@ -71,9 +71,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+  <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
     </td>
 <td width="96" style="text-align:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
@@ -98,9 +98,9 @@
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="sentry" />
-      <br>sentry
+<td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="react" />
+      <br> FastApi
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
@@ -159,18 +159,6 @@
     </td>
 </tr>
   <tr>
-  <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
-    </td>
-                <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=googlecloud" width="48" height="48" alt="react" />
-      <br> Gcloud
-    </td>
-        <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="react" />
-      <br> FastApi
-    </td>
   </tr>
 </table>
 
