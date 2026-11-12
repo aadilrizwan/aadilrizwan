@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋 , I'm MA RIZWAN! </h1>
 
-**Competitive Programmer | Full-Stack AI Developer**
+**Competitive Programmer | Full-Stack Developer | ML Engineer**
 
 - Final-year B.Tech undergraduate passionate about Full-Stack Development, AI, Machine Learning, and High-Performance Computing.
 - Interested in building AI-native applications, developer tools, and production-grade software
 - Currently researching the reasoning capabilities of Large Multimodal Models (LMMs)
 - Competitive Programming – **Codeforces: Expert (1747) • CodeChef: 5★ (2156)**
-- **Open Source** – Significant contributions to [Google DeepMind](https://github.com/google-deepmind), [OWASP](https://github.com/owasp), and other open-source projects.
+- **Open Source** – Significant contributions to [Google DeepMind](https://github.com/google-deepmind), [OWASP](https://github.com/owasp), [Graphify](https://github.com/Graphify-Labs) and other open-source projects.
 - **Meta OpenEnv PyTorch Scaler Hackathon** – Global Top 800 Finalist
 - **Meta Hacker Cup** – Global Rank 781 (Round 1) • Global Rank 1271 (Round 2)
 
 ---
 
 ## Connect With Me
+
 <p align="left">  
   <a href="mailto:marizwan639@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,12 +21,9 @@
 </p>
 
 ## Favorite tools and technologies ⚙️
+
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
       <br>C++
@@ -38,10 +36,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="65" height="65" alt="Django" />
-      <br>Django
-    </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br>GitHub
+</td>
       <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
       <br>Pytorch
@@ -58,9 +56,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
+      <td align="center" width="96">
        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
@@ -71,6 +67,8 @@
        alt="TensorFlow" />
   <br>TensorFlow
 </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
@@ -103,9 +101,7 @@
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="expressjs" />
       <br>Express.js
     </td>
-      </tr>
-  <tr>
-        <td align="center" width="96">
+            <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
@@ -114,6 +110,8 @@
         <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
       <br>Prisma
     </td>
+      </tr>
+  <tr>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
@@ -146,14 +144,15 @@
        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="solidity" />
       <br>Solidity
     </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+  <br>Rust
+</td>
+    
 </tr>
   <tr>
   </tr>
 </table>
-
-
-
-
 
 <!--
 **marqcoder/marqcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
